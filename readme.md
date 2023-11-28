@@ -2,7 +2,7 @@
 
 # Candidate QnA - Gradio Application Powered by Google PaLM
 
-This application provides a chat interface to a recruiter where they can upload a resume for the candidate and ask questions from the chat-bot about the candidate.
+This application provides a chat interface to a recruiter where they can upload a resume of a candidate and ask questions to the chat-bot about the candidate.
 
 ## The RAG process consists of three steps:
 
